@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "projetos/java-anatomia-de-classes"
+        "projetos/java-anatomia-de-classes",
+        "projetos/operadores"
     ]
 }
